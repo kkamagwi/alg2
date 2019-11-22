@@ -12,3 +12,5 @@ class Programist:
         return "Oleg hello"
     def stop (self, weight):
         return "oleg money"
+    def win(self, age):
+        return "an expirence"
