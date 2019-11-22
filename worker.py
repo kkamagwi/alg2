@@ -6,3 +6,4 @@ class Programist:
     height = 345
     eye_color = "blu"
     blood_type = 4
+    favorite_pet = "cat"
