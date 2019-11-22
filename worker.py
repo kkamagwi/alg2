@@ -1,1 +1,3 @@
-class programist:
+class Programist:
+
+    name = 'Oleg'
