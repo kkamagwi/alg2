@@ -14,3 +14,5 @@ class Programist:
         return "oleg money"
     def win(self, age):
         return "an expirence"
+    def lose (self, height):
+        return"you lose"
