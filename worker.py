@@ -7,3 +7,6 @@ class Programist:
     eye_color = "blu"
     blood_type = 4
     favorite_pet = "cat"
+
+    def start(self, name):
+        return "Oleg hello"
