@@ -8,8 +8,8 @@ class Testov(unittest.TestCase):
         self.assertEqual(oleg.name, 'Oleg')
 
     def test_age(self):
-        cat = favorite_pet()
-        self.assertEqual(cat.favorite_pet, 'cat')
+        oleg = Programist()
+        self.assertEqual(oleg.favorite_pet, 'cat')
 
 
 
