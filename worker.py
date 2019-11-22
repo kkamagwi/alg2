@@ -10,3 +10,5 @@ class Programist:
 
     def start(self, name):
         return "Oleg hello"
+    def stop (self, weight):
+        return "oleg money"
